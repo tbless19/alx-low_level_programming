@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Print size of types
+ * main - Print size of diff types
  * Return: Always 0
  */
 int main(void)
