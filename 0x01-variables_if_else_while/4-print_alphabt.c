@@ -1,21 +1,21 @@
 #include <stdio.h>
-include <stdlib.h>
+#include <stdlib.h>
  /**
-  * main - print no one knows
+  * main - prints alphabet with q  & e
   * Return: Always 0
   */
 int main(void)
 {
-	char lett = 'a';
+	int let = 'a';
 
-	while (lette <= 'z')
+	while (let <= 'z')
 	{
-		if ((lett <! 'q') && (lett >= 'e'))
+		if ((let != 'e') && (let != 'q'))
 		{
-			putchar(lett);
+			putchar(let);
 		}
-		lett++;
+		let++;
 	}
 	putchar('\n');
-	return 0;
+	return (0);
 }
