@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
- /**
-  * main - prints alphabet with q  & e
+/**
+  * main - prints alphabet with q and e
   * Return: Always 0
   */
 int main(void)
